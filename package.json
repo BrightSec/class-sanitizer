@@ -7,7 +7,7 @@
   "readmeFilename": "README.md",
   "author": {
     "name": "Artem Derevnjuk",
-    "email": "artem.derevnjuk@neuralegion.com"
+    "email": "artem.derevnjuk@brightsec.com"
   },
   "main": "./dist/index.js",
   "files": [
@@ -37,12 +37,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NeuraLegion/class-sanitizer.git"
+    "url": "https://github.com/BrightSec/class-sanitizer.git"
   },
   "bugs": {
-    "url": "https://github.com/NeuraLegion/class-sanitizer/issues"
+    "url": "https://github.com/BrightSec/class-sanitizer/issues"
   },
-  "homepage": "https://github.com/NeuraLegion/class-sanitizer#readme",
+  "homepage": "https://github.com/BrightSec/class-sanitizer#readme",
   "tags": [
     "sanitizer",
     "sanitization",
