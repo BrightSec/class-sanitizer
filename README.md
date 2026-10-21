@@ -1,7 +1,7 @@
 # neuralegion/class-sanitizer
 
 ![npm](https://img.shields.io/npm/dm/@neuralegion/class-sanitizer?logo=npm)
-![Build Status](https://github.com/NeuraLegion/class-sanitizer/actions/workflows/auto-build.yml/badge.svg?branch=master)
+![Build Status](https://github.com/BrightSec/class-sanitizer/actions/workflows/auto-build.yml/badge.svg?branch=master)
 
 Allows to use decorator and non-decorator based sanitization in your Typescript classes.
 Internally uses [validator.js](https://github.com/chriso/validator.js) and [Caja-HTML-Sanitizer](https://github.com/theSmaw/Caja-HTML-Sanitizer) to make sanitization.
